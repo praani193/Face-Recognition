@@ -11,9 +11,6 @@ With its user-friendly interface, this project serves as a foundation for furthe
 2.1 Structure
 The dataset consists of facial images captured in real-time via webcam. It is stored as follows:
 
-markdown
-Copy
-Edit
 dataset1/
 ├── Person_1/
 │   ├── 1.jpg
@@ -23,6 +20,7 @@ dataset1/
     ├── 1.jpg
     ├── 2.jpg
     └── ...
+
 Each person has their own subfolder containing 300 images captured during detection.
 
 2.2 Image Specifications
